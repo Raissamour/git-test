@@ -1,0 +1,208 @@
+/* 
+font-family: 'Noto Sans', sans-serif;
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+*/
+/*  debutmon bootstrap*/
+.bg-blue{
+	background-color: #4a8eff;
+}
+.bg-blanc{
+	background-color: #fff;
+}
+.texte-blue{
+	color: #4a8eff;
+}
+.texte-blanc{
+	color: white;
+}
+.texte-noir{
+	color: black;
+}
+.petit-btn{
+	padding: 5px;
+	color: #fff;
+	border-radius: 10px;
+}
+.grand-btn{
+	width: 30%;
+	padding: 5px;
+	color: #fff;
+	border-radius: 10px;
+}
+.grand-input{
+    width: 60%;
+    height: 50px;
+    border-radius: 35px solid white ;
+    padding: 5px;
+    font-size: 15px;
+}
+.btn{
+	padding: 7px;
+	border : 3px solid #4a8eff;
+
+}
+.icone-img{
+	height : 100px;
+	padding-right: 50px; 
+}
+.carte{
+	box-shadow:  1px 1px 2px 2px;
+	margin-left: 70px;
+	padding: 10px;
+}
+.texte-right{
+	float: right;
+}
+
+/* fin mon bootstrap*/
+
+/* Header*/
+.header{
+	padding-bottom: 5px
+}
+.fa-stethoscope{
+	color: #4a8eff;
+	font-size: 50px;
+}
+.header span{
+	font-size: 50px;
+	color: black;
+	padding-right: 400px;
+}
+
+.header a{
+	text-decoration: none;
+	font-size: 20px;
+	padding-left: 50px;
+}
+
+.header a:hover{
+	color: black;
+	text-decoration: none;
+}
+/* Fin Header*/
+
+/* Nav*/
+
+.nav-item{
+	font-size: 20px;
+	padding-left: 50px;
+}
+nav li {
+	list-style-type: none;
+}
+/* Fin de ma nav */
+
+/*section*/
+.section{
+	height: 520px ;
+	background-image: url(img/seringue.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 70px;
+	margin-bottom: 20px;
+}
+.sect{
+	height: 150px;
+	width: 80%;
+	padding-top: 50px;
+	padding-left: 50px;
+	margin-left: 100px;
+	background: rgba(255,255, 255, 0.5);
+}
+.form-control-plaintext-lg{
+	border:0px;
+	background-color: transparent;
+	width: auto;
+	padding: 10px;
+	margin-left: 10px;
+}
+.fa-search{
+	font-size: 30px;
+	color: #4a8eff;
+}
+
+.phover:hover{
+	background-color: #4a8eff;
+	color :white;
+}
+/*fin section */
+
+/* bg-image1*/
+.bg-img1{
+	height: 520px ;
+	background-image: url(img/0.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 70px;
+	margin-bottom: 20px;
+}
+.sect-bg-img{
+	height: 300px;
+	width: 40%;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-left: 550px;
+	margin-top: 100px;
+	background: rgba(0,0, 0, 0.2);
+}
+
+.bloc1{
+	padding-top:70px;
+	padding-bottom:70px;
+	display: inline-flex;
+}
+.lesblocs{
+	position: fixed;
+	top: 530px;
+	background: rgba(0,0, 0, 0.2);
+}
+/* bg-image1*/
+/*migraine */
+.bg-img2{
+	height: 520px ;
+	background-image: url(img/comprime.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 90px;
+	margin-bottom: 20px;
+	display: inline-flex;
+}
+.sect-bg-img2{
+	height: 250px;
+	width: 40%;
+	padding-top: 10px;
+	padding-left: 20px;
+	margin-left: 50px;
+	background: rgba(0,0, 0, 0.2);
+}
+/*fin migraine */
+/*section1*/
+/*
+.section1{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	padding: 20px;
+}  
+
+.section1 li{
+	list-style-type: none;
+}  
+/* fin de section1*/
+
+/*  section3*/
+/*
+.carte img{
+	width: 300px;
+}
+/* section2*/
+/*
+.chiffre{
+	font-size: 70px;"
+}
+/* Maux de tete*/
+
+
+/*
+
+/* fin maux de tete*/
